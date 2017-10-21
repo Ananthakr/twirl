@@ -6,10 +6,10 @@ The challenge here is to keep the ball on the pavement and collecting coins to s
 
 ### Screenshots
 
-[!Start screen] (https://raw.githubusercontent.com/Ananthakr/twirl/master/Screenshots/start.png)
+![Start screen](https://raw.githubusercontent.com/Ananthakr/twirl/master/Screenshots/start.png)
 
-[!Gameplay] (https://raw.githubusercontent.com/Ananthakr/twirl/master/Screenshots/play-1.png)
+![Gameplay](https://raw.githubusercontent.com/Ananthakr/twirl/master/Screenshots/play-1.png)
 
-[!Game Over] (https://raw.githubusercontent.com/Ananthakr/twirl/master/Screenshots/finish.png)
+![Game Over](https://raw.githubusercontent.com/Ananthakr/twirl/master/Screenshots/finish.png)
 
 
